@@ -17,7 +17,15 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "dgad-alert-lib": [
+        "dist/dgad-alert-lib"
+      ],
+      "dgad-alert-lib/*": [
+        "dist/dgad-alert-lib/*"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
