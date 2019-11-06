@@ -1,5 +1,6 @@
 # DgadAlertLibrary
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.9.
+Libreria personalizada que ofrece funcionalidad para mostrar alertas al usuario. 
+Sólo para prueba de concepto.
 
 
