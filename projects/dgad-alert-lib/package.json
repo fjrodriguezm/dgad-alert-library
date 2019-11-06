@@ -1,8 +1,8 @@
 {
-  "name": "@dgad/alert-lib",
+  "name": "dgad-alert-library",
   "version": "0.0.2",
   "description": "Libreria (TOC) que permite mostrar mensjes de alerta",
-  "author": "FJRM",
+  "author": "fjrm761c",
   "private": false,
   "peerDependencies": {
     "@angular/common": "^8.2.13",
